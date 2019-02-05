@@ -110,3 +110,8 @@ h5{
     margin-top: 5rem;
     padding: 2rem;
 }
+@media screen only(min-width=300px && max-width=768px){
+    .top-header col p{
+        font-size:0.4rem;
+        padding:0.25rem;
+}
